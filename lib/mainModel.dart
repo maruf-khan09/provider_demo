@@ -1,16 +1,16 @@
-import 'package:flutter/material.dart';
+// import 'package:flutter/material.dart';
 
-class MainModel extends ChangeNotifier {
-  int _counter = 0;
+// class MainModel extends ChangeNotifier {
+//   int _counter = 0;
 
-  int get counter {
-    return _counter;
-  }
+//   int get counter {
+//     return _counter;
+//   }
 
-  set counter(int value) {
-    if (value != _counter) {
-      _counter = value;
-      notifyListeners();
-    }
-  }
-}
+//   set counter(int value) {
+//     if (value != _counter) {
+//       _counter = value;
+//       notifyListeners();
+//     }
+//   }
+// }
